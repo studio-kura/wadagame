@@ -1,0 +1,1 @@
+(self.webpackChunkwadaGame=self.webpackChunkwadaGame||[]).push([[9605],{9605:(s,o,r)=>{"use strict";r.r(o),r.d(o,{ion_text:()=>c});var t=r(2247),e=r(6402),a=r(9419);let c=class{constructor(s){(0,t.r)(this,s)}render(){const s=(0,e.b)(this);return(0,t.h)(t.H,{class:(0,a.c)(this.color,{[s]:!0})},(0,t.h)("slot",null))}};c.style=":host(.ion-color){color:var(--ion-color-base)}"}}]);

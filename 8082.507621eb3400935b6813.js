@@ -1,0 +1,1 @@
+(self.webpackChunkwadaGame=self.webpackChunkwadaGame||[]).push([[8082],{8082:(a,e,p)=>{"use strict";p.r(e),p.d(e,{ion_popover:()=>s.P});var s=p(4545);p(2247),p(6402),p(3912),p(8612),p(5889),p(5212)}}]);
